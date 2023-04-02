@@ -1,5 +1,5 @@
 // Funaction Confirm
-let visit = confirm("Are You Realy Want To Our Website");
+let visit = confirm("Are You Realy Want To Visit Our Website");
 if (visit) {
     console.log("Thank You So Much");
 }
